@@ -11613,7 +11613,9 @@ body.style-eight .clv_right_header .clv_menu .cart_nav > ul > li > a > svg > pat
 	}
 
 }
-
+.clv_menu_nav {
+    margin-left: 130px;
+}
 /********************************************************
 39. Responsive CSS End
 *******************************************************/  
