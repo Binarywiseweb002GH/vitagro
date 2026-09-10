@@ -907,7 +907,8 @@ ul{
  *******************************************************/
 .clv_counter_wrapper{
 	position: relative;
-	background: url('https://via.placeholder.com/1920x950') no-repeat center;
+	  background-image: url('../images/counter_bg.JPG') !important;
+	      background-repeat: no-repeat;
 	background-size: cover;
 	padding: 88px 0px 96px;
 	z-index: 1;
@@ -11677,6 +11678,13 @@ body.style-eight .clv_right_header .clv_menu .cart_nav > ul > li > a > svg > pat
     font-size: 70px;
    color: #607d8b; 
 }
+.about_product_contact {
+    background-color: #1FA12E !important;
+}
+.about_product_contact span {
+    background-color: #1FA12E !important;
+}
+
 /********************************************************
 39. Responsive CSS End
 *******************************************************/  
