@@ -11644,9 +11644,39 @@ body.style-eight .clv_right_header .clv_menu .cart_nav > ul > li > a > svg > pat
     font-size: 60px;
 	   color: #1fa12e;
 }
+.feed-chicks-icon {
+    font-size: 70px;
+    color: #f5b400;
+}
+.veterinary-icon {
+    font-size: 70px;
+    color: #e74c3c;
+}
+.farm-equipment-icon {
+    font-size: 70px;
+    color: #f5a623;
+}
+.chicks-icon {
+    font-size: 70px;
+    color: #FFD21F;
+}
 
-
-
+  .feed-icon {
+    font-size: 70px;
+    color: #8B5A2B;
+}
+.farm-supplies-icon {
+    font-size: 70px;
+    color: #795548;
+}
+.poultry-supplements-icon {
+    font-size: 70px;
+    color: #e67e22;
+}
+.farm-equipment-icon {
+    font-size: 70px;
+   color: #607d8b; 
+}
 /********************************************************
 39. Responsive CSS End
 *******************************************************/  
