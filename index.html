@@ -776,5 +776,20 @@ are starting a poultry farm or managing an established agricultural business, Vi
 <script src="js/revolution.extension.slideanims.min.js"></script>
 <script src="js/revolution.extension.video.min.js"></script>
 <script src="js/custom.js"></script>
+jQuery(document).ready(function ($) {
+
+    $('.menu_toggle').on('click', function () {
+        $('#vitagroMobileMenu').addClass('active');
+    });
+
+    $('#mobileMenuClose').on('click', function () {
+        $('#vitagroMobileMenu').removeClass('active');
+    });
+
+    $('#vitagroMobileMenu a').on('click', function () {
+        $('#vitagroMobileMenu').removeClass('active');
+    });
+
+});
 </body>
 </html>

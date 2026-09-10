@@ -11640,6 +11640,81 @@ body.style-eight .clv_right_header .clv_menu .cart_nav > ul > li > a > svg > pat
 .tollfree_block {
     background-color: #1fa12e !important;
 }
+/* ==============================
+   Vitagro Mobile Hamburger Menu
+   ============================== */
+
+.vitagro_mobile_menu {
+    display: none;
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 300px;
+    height: 100vh;
+    background: #eab318;
+    z-index: 99999;
+    box-shadow: -5px 0 20px rgba(0, 0, 0, 0.20);
+}
+
+.vitagro_mobile_menu.active {
+    display: block;
+}
+
+.mobile_menu_inner {
+    position: relative;
+    padding: 70px 30px 30px;
+}
+
+.mobile_menu_close {
+    position: absolute;
+    top: 20px;
+    right: 25px;
+    border: none;
+    background: transparent;
+    color: #ffffff;
+    font-size: 35px;
+    line-height: 1;
+    cursor: pointer;
+}
+
+.vitagro_mobile_menu ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.vitagro_mobile_menu ul li {
+    margin-bottom: 5px;
+}
+
+.vitagro_mobile_menu ul li a {
+    display: block;
+    padding: 15px 10px;
+    color: #ffffff;
+    font-size: 18px;
+    font-weight: 600;
+    text-decoration: none;
+    text-transform: capitalize;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.25);
+}
+
+.vitagro_mobile_menu ul li a:hover {
+    color: #000000;
+}
+
+
+/* Hamburger icon */
+.menu_toggle {
+    cursor: pointer;
+}
+
+
+/* Mobile only */
+@media (min-width: 768px) {
+    .vitagro_mobile_menu {
+        display: none !important;
+    }
+}
 
 /********************************************************
 39. Responsive CSS End
