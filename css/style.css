@@ -7425,22 +7425,22 @@ ul{
 .contact_block:hover:before{
 	width: 90px;
 	height: 60px;
-	border-color: #fec007;
+	border-color:  #1FA12E;
 }
 .contact_block:hover:after{
 	width: 60px;
 	height: 90px;
-	border-color: #fec007;
+	border-color: #1FA12E;
 }
 .contact_block:hover span:before{
 	width: 60px;
 	height: 90px;
-	border-color: #fec007;
+	border-color: #1FA12E;
 }
 .contact_block:hover span:after{
 	width: 90px;
 	height: 60px;
-	border-color: #fec007;
+	border-color: #1FA12E;
 }
 .contact_block .contact_icon{
 	margin-bottom: 15px;
@@ -7462,7 +7462,7 @@ ul{
 	transform: translateX(-50%);
 	width: 104px;
 	height: 1px;
-	background-color: #fec007;
+	background-color: #1FA12E;
 }
 .contact_block h4:after{
 	width: 56px;
@@ -11687,6 +11687,10 @@ body.style-eight .clv_right_header .clv_menu .cart_nav > ul > li > a > svg > pat
 }
 .about_product_contact span {
     background-color: #1FA12E !important;
+}
+.contact_block:hover span {
+    background-color: #1FA12E !important;
+    border-color: #1FA12E !important;
 }
 
 /********************************************************
