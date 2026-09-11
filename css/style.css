@@ -11692,6 +11692,32 @@ body.style-eight .clv_right_header .clv_menu .cart_nav > ul > li > a > svg > pat
     background-color: #1FA12E !important;
     border-color: #1FA12E !important;
 }
+@media (max-width: 767px) {
+
+    .clv_rev_slider .tp-caption {
+        white-space: normal !important;
+    }
+
+    .clv_rev_slider .tp-caption[id*="layer-1"] {
+        font-size: 14px !important;
+        line-height: 20px !important;
+        letter-spacing: 1px !important;
+        width: 90% !important;
+    }
+
+    .clv_rev_slider .tp-caption[id*="layer-3"],
+    .clv_rev_slider .tp-caption[id*="layer-4"] {
+        font-size: 38px !important;
+        line-height: 44px !important;
+        width: 90% !important;
+    }
+
+    .clv_rev_slider .clv_btn {
+        font-size: 14px !important;
+        padding-left: 25px !important;
+        padding-right: 25px !important;
+    }
+}
 
 /********************************************************
 39. Responsive CSS End
