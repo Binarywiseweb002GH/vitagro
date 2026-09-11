@@ -11714,6 +11714,17 @@ body.style-eight .clv_right_header .clv_menu .cart_nav > ul > li > a > svg > pat
 
    
 }
+@media (max-width: 767px) {
+
+    .menu_toggle {
+        background-color: #1fa12e !important;
+    }
+
+    .menu_toggle span {
+        background-color: transparent !important;
+    }
+
+}
 
 /********************************************************
 39. Responsive CSS End
