@@ -11725,6 +11725,14 @@ body.style-eight .clv_right_header .clv_menu .cart_nav > ul > li > a > svg > pat
     }
 
 }
+@media (max-width: 767px) {
+    .clv_rev_slider .clv_btn {
+        text-align: center !important;
+        display: inline-flex !important;
+        justify-content: center !important;
+        align-items: center !important;
+    }
+}
 
 /********************************************************
 39. Responsive CSS End
