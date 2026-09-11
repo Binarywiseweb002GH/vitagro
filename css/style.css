@@ -11620,6 +11620,12 @@ body.style-eight .clv_right_header .clv_menu .cart_nav > ul > li > a > svg > pat
     position: relative;
     top: -110px;
 }
+/* Mobile */
+@media (max-width: 767px) {
+    .clv_footer_wrapper .footer_block {
+        top: 0;
+    }
+}
 .agri_social_links li a:hover {
     color: #1fa12e;
 }
