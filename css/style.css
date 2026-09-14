@@ -2007,7 +2007,7 @@ ul{
 *******************************************************/
 
 .index_v2 .clv_heading h3{
-	color: #1fa12e;
+	color: #98c256;
 }
 /*Header Start*/
 .index_v2.clv_main_wrapper .clv_header {
@@ -2062,7 +2062,7 @@ ul{
 	padding: 11px 0px 15px;
 }
 .index_v2.clv_main_wrapper .clv_right_header .clv_menu .clv_menu_nav > ul > li > ul{
-	border-bottom-color: #1fa12e;
+	border-bottom-color: #98c256;
 }
 .index_v2.clv_main_wrapper .clv_right_header .clv_menu .clv_menu_nav > ul > li > a{
 	color: #222222;
@@ -2070,7 +2070,7 @@ ul{
 	margin: 0px 10px;
 }
 .index_v2.clv_main_wrapper .clv_right_header .clv_menu .clv_menu_nav > ul > li > a:hover{
-	color: #1fa12e;
+	color: #98c256;
 }
 .index_v2.clv_main_wrapper .clv_right_header .clv_menu .clv_menu_nav > ul > li > a:after{
 	width: 100%;
@@ -2078,14 +2078,14 @@ ul{
 	transform: translateX(-50%) scaleX(0);
 }
 .index_v2.clv_main_wrapper .clv_right_header .clv_menu .clv_menu_nav > ul > li > a:hover:after{
-	background-color: #1fa12e;
+	background-color: #98c256;
 	transform: translateX(-50%) scaleX(1);
 }
 .index_v2.clv_main_wrapper .clv_right_header .clv_menu .cart_nav > ul > li > a{
-	color: #1fa12e;
+	color: #98c256;
 }
 .index_v2.clv_main_wrapper .clv_right_header .clv_menu .clv_menu_nav > ul > li > ul > li > a:hover{
-	color: #1fa12e;
+	color: #98c256;
 }
 .index_v2.clv_main_wrapper .clv_right_header > .clv_menu > .cart_nav > ul > li{
 	position: relative; 
@@ -2108,16 +2108,16 @@ ul{
 	align-items: center;
 	justify-content: center;
 	min-width: 170px;
-	background-color: #1fa12e;
+	background-color: #98c256;
 	color: #ffffff;
 	border-radius: 50px;
 	text-transform: capitalize;
 }
 .index_v2.clv_main_wrapper .search_box .search_block h3{
-	color: #1fa12e;
+	color: #98c256;
 }
 .index_v2.clv_main_wrapper .search_box .search_block .search_field > a{
-	background-color: #1fa12e;
+	background-color: #98c256;
 }
 /*Header End*/
 /*Banner Start*/
@@ -2195,19 +2195,19 @@ ul{
 	background-color: rgba(0,0,0,0.70);
 } 
 .index_v2.clv_main_wrapper .clv_banner_slider .clv_slide .clv_slide_inner h3{
-	color: #1fa12e;
+	color: #98c256;
 }
 .index_v2.clv_main_wrapper .clv_banner_slider .clv_btn{
 	margin-top: 30px;
 }
 .index_v2 .clv_btn:hover{
-	color: #1fa12e;
+	color: #98c256;
 }
 .index_v2 .clv_btn::before{
-	background-color: #1fa12e;
+	background-color: #98c256;
 }
 .index_v2 .clv_btn::after{
-	border: 1px solid #1fa12e;
+	border: 1px solid #98c256;
 }
 .index_v2 .clv_banner_slider .slider_arrow{
 	border: none;
@@ -2291,7 +2291,7 @@ ul{
     height: 1px;
     width: 110px;
     transform: translateX(-50%);
-    background-color: #1fa12e;
+    background-color: #98c256;
 }
 .clv_features_wrapper .feature_block h3:after{
 	width: 50px;
@@ -2378,7 +2378,7 @@ ul{
 }
 .clv_about_product .about_product_contect > h6{
 	font-size: 20px;
-	color: #1fa12e;
+	color: #98c256;
 	font-family: 'Lato', sans-serif;
 	margin-bottom: 19px;
 }
@@ -2548,7 +2548,7 @@ ul{
 	font-size: 40px;
 	font-weight: 700;
 	text-transform: capitalize;
-	color: #1fa12e;
+	color: #98c256;
 }
 .agri_testimonial_wrapper .agri_testimonial_slider{
 	position: relative;
@@ -2580,7 +2580,7 @@ ul{
 	transition: all 0.3s ease-in-out;-webkit-transition: all 0.3s ease-in-out;-moz-transition: all 0.3s ease-in-out;
 }
 .agri_testimonial_wrapper .agri_testimonial_slider .agri_arrow:hover svg > path{
-	fill: #1fa12e;
+	fill: #98c256;
 }
 .agri_testimonial_wrapper .agri_testimonial_slider .swiper-container{
 	padding: 70px 0px 20px;
@@ -2660,7 +2660,7 @@ ul{
 	background-color: rgba(31,161,46,0.85);
 }
 .index_v2 .shop_slider .shop_slide .item_overlay > .shop_btn{
-	color: #1fa12e;
+	color: #98c256;
 }
 .index_v2 .shop_slider .shop_slide .item_overlay > .shop_btn:hover{
 	color: #ffffff;
@@ -2681,7 +2681,7 @@ ul{
 }
 .index_v2 .shop_slider .shop_slide .item_name h3{
 	font-size: 16px;
-    color: #1fa12e;
+    color: #98c256;
 	font-weight: 600;
 	text-transform: capitalize;
 }
@@ -2707,8 +2707,8 @@ ul{
 	border-width: 1px;
 }
 .index_v2 .clv_shop_wrapper .shop_slider .slider_arrow:hover{
-	background-color: #1fa12e;
-	border-color: #1fa12e;
+	background-color: #98c256;
+	border-color: #98c256;
 }
 .index_v2 .clv_shop_wrapper .shop_slider .slider_arrow:hover svg path{
 	fill: #ffffff;
@@ -2743,7 +2743,7 @@ ul{
 	height: 45px;
 	font-size: 18px;
 	font-weight: 700;
-	color: #1fa12e;
+	color: #98c256;
 	background-color: #ffffff;
 	border-radius: 30px;
 }
@@ -2763,7 +2763,7 @@ ul{
 	transition: all 0.3s ease-in-out;-webkit-transition: all 0.3s ease-in-out;-moz-transition: all 0.3s ease-in-out;
 }
 .blog_section .agri_blog_content h3 > a:hover{
-	color: #1fa12e;
+	color: #98c256;
 }
 .blog_section .blog_user{
 	display: flex;
@@ -2812,7 +2812,7 @@ ul{
     transition: all 0.3s ease-in-out;-webkit-transition: all 0.3s ease-in-out;-moz-transition: all 0.3s ease-in-out;
 }
 .blog_section .agri_blog_content > a:hover{
-	color: #1fa12e;
+	color: #98c256;
 	letter-spacing: 1px;
 }
 .right_blog_section .right_blog_block{
@@ -2833,7 +2833,7 @@ ul{
 	font-size: 18px;
 	font-weight: 700;
 	font-family: 'Source Sans Pro', sans-serif;
-	color: #1fa12e;
+	color: #98c256;
 	display: inline-block;
     text-transform: capitalize;
 }
@@ -2849,7 +2849,7 @@ ul{
 	transition: all 0.3s ease-in-out;-webkit-transition: all 0.3s ease-in-out;-moz-transition: all 0.3s ease-in-out;
 }
 .right_blog_section .right_blog_block .right_blog_content h3 > a:hover{
-	color: #1fa12e;
+	color: #98c256;
 }
 .right_blog_block .blog_user{
 	display: flex;
@@ -2895,7 +2895,7 @@ ul{
     transition: all 0.3s ease-in-out;-webkit-transition: all 0.3s ease-in-out;-moz-transition: all 0.3s ease-in-out;
 }
 .right_blog_block .right_blog_content > a:hover{
-	color: #1fa12e;
+	color: #98c256;
 	letter-spacing: 1px;
 }
 /*Agriculture Blog End*/
@@ -2909,7 +2909,7 @@ ul{
 .agri_team_content h3{
 	font-size: 40px;
 	font-weight: 700;
-	color: #1fa12e;
+	color: #98c256;
 	text-transform: capitalize;
 }
 .agri_team_section .agri_team_block{
@@ -2982,15 +2982,15 @@ ul{
 	transition: all 0.3s ease-in-out;-webkit-transition: all 0.3s ease-in-out;-moz-transition: all 0.3s ease-in-out;
 }
 .agri_team_section .agri_team_block .agri_team_overlay > ul > li > a:hover{
-	color: #1fa12e;
+	color: #98c256;
 	border-color: #ffffff;
 	background-color: #ffffff;
 }
 /*Agriculture Team End*/
 /*Agriculture Partner Start*/
 .index_v2 .partner_slider .partner_slide .partner_image:hover{
-	background-color: #1fa12e;
-	border-color: #1fa12e;
+	background-color: #98c256;
+	border-color: #98c256;
 }
 .index_v2 .clv_partner_wrapper .partner_slider .slider_arrow{
 	width: 40px;
@@ -2998,8 +2998,8 @@ ul{
 	border-width: 1px;
 }
 .index_v2 .clv_partner_wrapper .partner_slider .slider_arrow:hover{
-	background-color: #1fa12e;
-	border-color: #1fa12e;
+	background-color: #98c256;
+	border-color: #98c256;
 }
 .index_v2 .clv_partner_wrapper .partner_slider .slider_arrow:hover svg path{
 	fill: #ffffff;
@@ -3007,7 +3007,7 @@ ul{
 /*Agriculture Partner End*/
 /*Agriculture Newsletter Start*/
 .index_v2 .clv_newsletter_wrapper{
-	background-color: #1fa12e;
+	background-color: #98c256;
 }
 /*Agriculture Newsletter End*/
 /*Agriculture Footer Start*/
@@ -3029,7 +3029,7 @@ ul{
 .index_v2 .footer_post_slider .footer_post_slide .footer_post_content span{
 	font-size: 14px;
 	text-transform: capitalize;
-	color: #1fa12e;
+	color: #98c256;
 }
 .index_v2 .footer_post_slider .footer_post_slide .footer_post_content p{
 	margin: 0;
@@ -4813,7 +4813,7 @@ ul{
 }
 .garden_shop_slide label .wish_icon{
 	font-size: 22px;
-	color: #1fa12e;
+	color: #98c256;
 }
 .garden_shop_slide label .wish_icon:last-child{
 	display: none;
@@ -4872,7 +4872,7 @@ ul{
 	width: 3px;
 	height: 3px;
 	display: inline-block;
-	background-color: #1fa12e;
+	background-color: #98c256;
 }
 .garden_project_slider{
 	margin-top: 37px;
@@ -4944,7 +4944,7 @@ ul{
 	padding-bottom: 43px;
 }
 .garden_project_slider .swiper-pagination-bullet-active {
-	background-color: #1fa12e;
+	background-color: #98c256;
 }
 /*Garden Project End*/
 /*Garden Team Start*/
@@ -6887,7 +6887,7 @@ ul{
 	bottom: -25px;
 	transform: translateX(-50%);
 	padding: 14px 20px;
-    background-color: #1fa12e;
+    background-color: #98c256;
     border-radius: 30px;
 	z-index: 1;
 }
@@ -7095,7 +7095,7 @@ ul{
 	font-size: 14px;
 	font-family: 'Source Sans Pro', sans-serif;
 	text-transform: capitalize;
-	color: #1fa12e;
+	color: #98c256;
 }
 .sidebar_post ul li .post_content a{
 	font-size: 15px;
@@ -7425,22 +7425,22 @@ ul{
 .contact_block:hover:before{
 	width: 90px;
 	height: 60px;
-	border-color:  #1FA12E;
+	border-color:  #98c256;
 }
 .contact_block:hover:after{
 	width: 60px;
 	height: 90px;
-	border-color: #1FA12E;
+	border-color: #98c256;
 }
 .contact_block:hover span:before{
 	width: 60px;
 	height: 90px;
-	border-color: #1FA12E;
+	border-color: #98c256;
 }
 .contact_block:hover span:after{
 	width: 90px;
 	height: 60px;
-	border-color: #1FA12E;
+	border-color: #98c256;
 }
 .contact_block .contact_icon{
 	margin-bottom: 15px;
@@ -7462,7 +7462,7 @@ ul{
 	transform: translateX(-50%);
 	width: 104px;
 	height: 1px;
-	background-color: #1FA12E;
+	background-color: #98c256;
 }
 .contact_block h4:after{
 	width: 56px;
@@ -11627,27 +11627,27 @@ body.style-eight .clv_right_header .clv_menu .cart_nav > ul > li > a > svg > pat
     }
 }
 .agri_social_links li a:hover {
-    color: #1fa12e;
+    color: #98c256;
 }
 /* Products links hover color */
 .footer_block .useful_links li a:hover {
-    color: #1fa12e !important;
+    color: #98c256 !important;
 }
 
 .footer_block .useful_links li a:hover span {
-    color: #1fa12e !important;
+    color: #98c256 !important;
 }
 
 .footer_block .useful_links li a:hover i {
-    color: #1fa12e !important;
+    color: #98c256 !important;
 }
 
 .tollfree_block {
-    background-color: #1fa12e !important;
+    background-color: #98c256 !important;
 }
 .service2_image i {
     font-size: 60px;
-	   color: #1fa12e;
+	   color: #98c256;
 }
 .feed-chicks-icon {
     font-size: 70px;
@@ -11683,14 +11683,14 @@ body.style-eight .clv_right_header .clv_menu .cart_nav > ul > li > a > svg > pat
    color: #607d8b; 
 }
 .about_product_contact {
-    background-color: #1FA12E !important;
+    background-color: #98c256 !important;
 }
 .about_product_contact span {
-    background-color: #1FA12E !important;
+    background-color: #98c256 !important;
 }
 .contact_block:hover span {
-    background-color: #1FA12E !important;
-    border-color: #1FA12E !important;
+    background-color: #98c256 !important;
+    border-color: #98c256 !important;
 }
 @media (max-width: 767px) {
 
@@ -11717,8 +11717,8 @@ body.style-eight .clv_right_header .clv_menu .cart_nav > ul > li > a > svg > pat
 @media (max-width: 767px) {
 
     .clv_menu_nav {
-        background: #1fa12e !important;
-        background-color: #1fa12e !important;
+        background: #98c256 !important;
+        background-color: #98c256 !important;
     }
 
 }
