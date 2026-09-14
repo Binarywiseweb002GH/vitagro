@@ -11738,6 +11738,42 @@ body.style-eight .clv_right_header .clv_menu .cart_nav > ul > li > a > svg > pat
     width: 120px !important;
     height: auto;
 }
+/* Change inline SVG icons to Vitagro green */
+.clv_header svg path {
+    fill: #98c256 !important;
+}
+
+.clv_header svg feFlood {
+    flood-color: #98c256 !important;
+}
+
+.clv_footer_wrapper svg path {
+    fill: #98c256 !important;
+}
+
+.clv_footer_wrapper svg feFlood {
+    flood-color: #98c256 !important;
+}
+.agri_social_links li a i.fa-facebook-f {
+    color: #98c256 !important;
+    font-size: 18px;
+}
+img[src="images/agri_underline3.png"] {
+    filter: brightness(0) saturate(100%)
+            invert(77%) sepia(22%) saturate(650%)
+            hue-rotate(45deg) brightness(92%) contrast(88%) !important;
+}
+img[src="images/agri_underline2.png"],
+img[src="images/agri_underline3.png"] {
+    filter: brightness(0) saturate(100%)
+            invert(77%) sepia(22%) saturate(650%)
+            hue-rotate(45deg) brightness(92%) contrast(88%) !important;
+}
+.service2_content h3:after,
+.service2_content h3:before {
+    background-color: #98C256 !important;
+    border-color: #98C256 !important;
+}
 
 /********************************************************
 39. Responsive CSS End
