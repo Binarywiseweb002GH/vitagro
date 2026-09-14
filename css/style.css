@@ -11730,6 +11730,14 @@ body.style-eight .clv_right_header .clv_menu .cart_nav > ul > li > a > svg > pat
         align-items: center !important;
     }
 }
+.footer_logo img {
+    width: 100px !important;
+    height: auto;
+}
+.clv_logo img {
+    width: 120px !important;
+    height: auto;
+}
 
 /********************************************************
 39. Responsive CSS End
